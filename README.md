@@ -1,0 +1,2 @@
+# ZPUIScrollviewAddConstraint
+本Demo主要介绍了在storyboard文件中如何给UIScrollView控件添加属性而避免出现红色的约束报错。
